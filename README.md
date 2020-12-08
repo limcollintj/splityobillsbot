@@ -3,7 +3,9 @@ Telegram bot which helps to split bills. It is a stateless telegram bot that hel
 
 # Format
 /splitbill-
+
 members: ...
+
 Transactions: ...
 
 # Example Request
