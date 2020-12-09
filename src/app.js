@@ -8,15 +8,6 @@ const bot = new TelegramBot(token, {
     polling: true
 });
 
-
-
-// In-memory storage
-// groupID to UserIDs object
-const groupMembers = {}
-
-
-
-
 // 
 // Listener (handler) for telegram's /start event
 // This event happened when you start the conversation with both by the very first time
